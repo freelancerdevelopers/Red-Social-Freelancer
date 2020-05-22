@@ -1,4 +1,4 @@
-Creador: Ba3
+Creador: Luis Rogelio Batres Guarneros
 Correo electronico: lbatres@freelancerdevelopers.com
 Administrador: freelancerdevelopers.com
 Fecha de creación:19-mayo-2020
@@ -13,8 +13,6 @@ Notas tecnicas:
 Deberas tener instalado Composer
 Deberas tener instalado Laravel 5.7
 Deberas dar permisos (777) storage
-
-
 
 Notas de instalacion:
 1.- Ejecutar el archivo (install-bd-base.sql)
