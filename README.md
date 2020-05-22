@@ -1,7 +1,8 @@
-<p align="center">
+<a target="_blank" style="align-content: center;"  href="https://freelancerdevelopers.com">
 	<img src="https://freelancerdevelopers.com/Recursos/imagen/FreelancerDevelopers.png" alt="freelancerdevelopers" title="freelancerdevelopers">
-</p>
-<a align="center" href="https://freelancerdevelopers.com">FreelancerDevelopers.com</a>
+</a>
+
+
 
 <ul>
     <li>Descripción: Red social de imagenes gratuita.</li>
@@ -9,9 +10,9 @@
 </ul>
 
 <ul>
-	<li>Creador: <a target="blank" href="https://mx.linkedin.com/in/luis-rogelio-batres-guarneros-26854950"> Luis Rogelio Batres Guarneros</a></li>
+	<li>Creador: <a target="_blank" href="https://mx.linkedin.com/in/luis-rogelio-batres-guarneros-26854950"> Luis Rogelio Batres Guarneros</a></li>
 	<li>Correo electronico: <a href="mailto:lbatres@freelancerdevelopers.com">contacto-mail</a></li>
-	<li>Administrador: freelancerdevelopers.com</li>
+	<li>Administrador: <a target="_blank" href="https://freelancerdevelopers.com"> freelancerdevelopers.com </a></li>
 	<li>Fecha de creación: 19-mayo-2020</li>
 	<li>Version Php:  7.2.30</li>
 	<li>Version MySQL: 10.4.11-MariaDB</li>
