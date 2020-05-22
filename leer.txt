@@ -1,0 +1,27 @@
+Creador: Ba3
+Correo electronico: lbatres@freelancerdevelopers.com
+Administrador: freelancerdevelopers.com
+Fecha de creación:19-mayo-2020
+Version php:  7.2.30
+Version MySQL: 10.4.11-MariaDB
+Framework: 5.7 Laravel
+Descripción: Red social cerrada de imagenes.
+Licencia: SOFTWARE LIBRE ver descripcion licencia
+
+Notas tecnicas:
+** Antes de desplegar el proyecto
+Deberas tener instalado Composer
+Deberas tener instalado Laravel 5.7
+Deberas dar permisos (777) storage
+
+
+
+Notas de instalacion:
+1.- Ejecutar el archivo (install-bd-base.sql)
+2.- El script contiene un INSERT con los datos por defecto del administrador los cuales son (usuario: admin@mail.com, pass: 12121212Qw.)
+3.- Modificar el parametro APP_URL (.env)
+3.- Modificar el conector de base de datos (.env)
+4.- Modificar el conector de smtp (.env)
+5.- Modificar el parametro url (public/js/main.js)
+6.- Montar el sitio en WWW
+7.- Ejecutar desde CMD -> php artisan route:list para enlistar la routes del proyecto
