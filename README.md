@@ -1,19 +1,22 @@
 <p align="center">
-	<img src="https://freelancerdevelopers.com/Recursos/imagen/FreelancerDevelopers.png">
+	<img src="https://freelancerdevelopers.com/Recursos/imagen/FreelancerDevelopers.png" alt="freelancerdevelopers" title="freelancerdevelopers">
 </p>
-    <li>Descripción: Red social cerrada de imagenes.</li>
-	<li>Licencia: SOFTWARE LIBRE ver descripcion licencia</li>
+<a align="center" href="https://freelancerdevelopers.com">FreelancerDevelopers.com</a>
 
 <ul>
-	<li>Creador: Luis Rogelio Batres Guarneros</li>
-	<li>Correo electronico: lbatres@freelancerdevelopers.com</li>
+    <li>Descripción: Red social de imagenes gratuita.</li>
+	<li>Licencia: SOFTWARE LIBRE ver descripción licencia (licencia.txt)</li>
+</ul>
+
+<ul>
+	<li>Creador: <a target="blank" href="https://mx.linkedin.com/in/luis-rogelio-batres-guarneros-26854950"> Luis Rogelio Batres Guarneros</a></li>
+	<li>Correo electronico: <a href="mailto:lbatres@freelancerdevelopers.com">contacto-mail</a></li>
 	<li>Administrador: freelancerdevelopers.com</li>
 	<li>Fecha de creación: 19-mayo-2020</li>
 	<li>Version Php:  7.2.30</li>
 	<li>Version MySQL: 10.4.11-MariaDB</li>
 	<li>Version Composer: 1.10.6</li>
-	<li>Framework: 5.7 
-		<img src="https://camo.githubusercontent.com/5ceadc94fd40688144b193fd8ece2b805d79ca9b/68747470733a2f2f6c61726176656c2e636f6d2f6173736574732f696d672f636f6d706f6e656e74732f6c6f676f2d6c61726176656c2e737667"></li>
+	<li>Version Framework Laravel: 5.7 </li>
 </ul>
 
 <ul>
@@ -33,6 +36,7 @@
 	<li>5.- Modificar el conector de smtp (.env)</li>
 	<li>6.- Modificar el parametro url (public/js/main.js)</li>
 	<li>7.- Montar el sitio en WWW</li>
+	<li>8.- Ejecutar desde CMD -> php artisan route:list para enlistar la routes del proyecto</li>
 </ul>
 
 
@@ -43,4 +47,3 @@
 
 
 
-7.- Ejecutar desde CMD -> php artisan route:list para enlistar la routes del proyecto
